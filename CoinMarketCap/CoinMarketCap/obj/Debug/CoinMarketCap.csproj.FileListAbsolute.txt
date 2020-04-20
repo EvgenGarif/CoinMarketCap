@@ -1,0 +1,210 @@
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.dll.config
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.pdb
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.exe
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.exe.config
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.rsp
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.exe
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.exe.config
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.rsp
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.Managed.Core.targets
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.AppContext.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Collections.Immutable.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Console.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Compression.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.FileSystem.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Pipes.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Reflection.Metadata.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.AccessControl.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Claims.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Principal.Windows.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.ValueTuple.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XmlDocument.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XPath.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.exe
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.exe.config
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.rsp
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\VBCSCompiler.exe
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\VBCSCompiler.exe.config
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Antlr3.Runtime.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.SqlServer.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Core.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Cookies.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Facebook.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Google.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.OAuth.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Twitter.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Web.Infrastructure.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Newtonsoft.Json.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Owin.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Helpers.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Mvc.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Optimization.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Razor.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Deployment.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Razor.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\WebGrease.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Helpers.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Mvc.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Optimization.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Razor.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Deployment.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Razor.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Newtonsoft.Json.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Antlr3.Runtime.pdb
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.SqlServer.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Core.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Facebook.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Cookies.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Google.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Twitter.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.OAuth.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csprojAssemblyReference.cache
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csproj.CoreCompileInputs.cache
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csproj.CopyComplete
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.dll
+E:\тестовое рез\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.pdb
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.dll.config
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\CoinMarketCap.pdb
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.exe
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.exe.config
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csc.rsp
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.exe
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.exe.config
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\csi.rsp
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.Managed.Core.targets
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.AppContext.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Collections.Immutable.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Console.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Compression.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.FileSystem.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.IO.Pipes.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Reflection.Metadata.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.AccessControl.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Claims.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Security.Principal.Windows.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.ValueTuple.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XmlDocument.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XPath.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.exe
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.exe.config
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\vbc.rsp
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\VBCSCompiler.exe
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\roslyn\VBCSCompiler.exe.config
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Antlr3.Runtime.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.SqlServer.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Core.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Cookies.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Facebook.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Google.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.OAuth.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Twitter.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Web.Infrastructure.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Newtonsoft.Json.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Owin.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Helpers.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Mvc.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Optimization.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Razor.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Deployment.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Razor.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\WebGrease.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Helpers.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Mvc.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Optimization.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.Razor.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Deployment.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\System.Web.WebPages.Razor.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Newtonsoft.Json.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Antlr3.Runtime.pdb
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\EntityFramework.SqlServer.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Core.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Facebook.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Cookies.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Google.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.Twitter.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.Owin.Security.OAuth.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csprojAssemblyReference.cache
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csproj.CoreCompileInputs.cache
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.csproj.CopyComplete
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.dll
+E:\codeC#\CoinMarketCap\CoinMarketCap\CoinMarketCap\obj\Debug\CoinMarketCap.pdb

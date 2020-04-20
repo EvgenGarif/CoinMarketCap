@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CoinMarketCap.Models.MarketCap>
+
+@{
+
+    WebGrid webGrid = new WebGrid(source: Model, canPage: true, rowsPerPage: 10);
+}
+
+<h2>Crypto currencies</h2>
+<div class="main">
+    @webGrid.GetHtml(
+                           htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+                           columns: webGrid.Columns(
+                                       webGrid.Column("Name", "Name", null, null, false),
+                                       webGrid.Column("Symbol", "Symbol", null, null, false),
+                                       webGrid.Column("CurrencyIcon", header: "Logo", format: @<text>
+                                        <img src="@item.icon" alt="@item.icon" width="16" height="16"></img></text>),
+webGrid.Column("Price", "Price"),
+webGrid.Column("ChangeHour", "%24h"),
+webGrid.Column("ChangeDay", "%1h"),
+webGrid.Column("MarketCapValue", "Market Cap"),
+webGrid.Column("LastUpdated", "LastUpdated", null, null, false)))
+</div>
+
+

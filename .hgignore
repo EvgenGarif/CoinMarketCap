@@ -1,0 +1,9 @@
+<<<<<<< working copy
+syntax: glob
+bin/*
+obj/*
+packages/*
+.vs/*
+*.user
+=======
+# Add any directories, files, or patterns you don't want to be tracked by version control>>>>>>> merge rev
