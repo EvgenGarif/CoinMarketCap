@@ -31,4 +31,6 @@ Entity Framework
 Приложение будет работать в продакшене, и также планируется его
 дальнейшая доработка и поддержка.
 
+Скриншот веб-приложения:
 
+![Image alt](https://github.com/EvgenGarif/CoinMarketCap/blob/master/CoinMarketCap/CoinMarketCap/App_Data/MarketCapList.png)
